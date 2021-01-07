@@ -37,7 +37,7 @@
 						<environment>Sandbox</environment>
 						<username>Ankit_Dusad_02</username>
 						<password>AVPDapisero@131608</password>
-						<applicationName>helloworld</applicationName>
+						<applicationName>2helloworld1</applicationName>
 						<workerType>MICRO</workerType>
 						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
